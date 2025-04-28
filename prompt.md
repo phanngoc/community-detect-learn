@@ -1,0 +1,1 @@
+format markdown, wrap math block latex by $$ or $
