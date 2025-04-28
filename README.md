@@ -4,6 +4,8 @@
 
 Lý thuyết đồ thị là nền tảng quan trọng trong toán học rời rạc và khoa học máy tính, với nhiều ứng dụng trong thực tế như mạng xã hội, giao thông vận tải, sinh học, và nhiều lĩnh vực khác. Chuỗi bài này trình bày các khái niệm cơ bản và các thuật toán phát hiện cộng đồng (community detection) trên đồ thị một cách toàn diện và dễ hiểu.
 
+![Community detection](./louvain_community_detection.png)
+
 ## Nội Dung
 
 ### Phần 1: Cơ Bản Về Đồ Thị
